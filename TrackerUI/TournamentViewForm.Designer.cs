@@ -34,6 +34,7 @@ namespace TrackerUI
             this.roundLabel = new System.Windows.Forms.Label();
             this.roundDropdown = new System.Windows.Forms.ComboBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // headerLabel
@@ -89,19 +90,29 @@ namespace TrackerUI
             this.checkBox1.Text = "Unplayer Only";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 31;
+            this.listBox1.Location = new System.Drawing.Point(32, 189);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(330, 407);
+            this.listBox1.TabIndex = 5;
+            // 
             // TournamentViewForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
             this.ClientSize = new System.Drawing.Size(1300, 698);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.roundDropdown);
             this.Controls.Add(this.roundLabel);
             this.Controls.Add(this.tournamentName);
             this.Controls.Add(this.headerLabel);
             this.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "TournamentViewForm";
             this.Text = "Tournament Viewer Form";
             this.ResumeLayout(false);
@@ -116,6 +127,7 @@ namespace TrackerUI
         private System.Windows.Forms.Label roundLabel;
         private System.Windows.Forms.ComboBox roundDropdown;
         private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }
 
