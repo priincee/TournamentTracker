@@ -1,0 +1,16 @@
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.exe
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.deps.json
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.runtimeconfig.json
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.runtimeconfig.dev.json
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.dll
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.pdb
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.TournamentViewForm.resources
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.GenerateResource.cache
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.AssemblyInfoInputs.cache
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.AssemblyInfo.cs
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.dll
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.pdb
+C:\Users\princ\Desktop\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.genruntimeconfig.cache
