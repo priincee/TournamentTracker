@@ -1,7 +1,7 @@
 ﻿
 namespace CreateTournamentForm
 {
-    partial class Form1
+    partial class CreateTournamentForm
     {
         /// <summary>
         ///  Required designer variable.
